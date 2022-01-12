@@ -1,0 +1,37 @@
+"in-tank inventory" port:10001
+P372 "ANPR enabled"
+mikrotik streetlight
+"[2J[H Encartele Confidential"
+Siemens Industrial Automation 🔎 →
+"Siemens, SIMATIC" port:161
+Siemens HVAC Controllers 🔎 →
+"Server: Microsoft-WinCE" "Content-Length: 12581"
+Door / Lock Access Controllers 🔎 →
+"HID VertX" port:4070
+Railroad Management 🔎 →
+"log off" "select the appropriate"
+"MongoDB Server Information" port:27017 -authentication
+"Set-Cookie: mongo-express=" "200 OK"
+"Citrix Applications:" port:1604
+http.title:"- Polycom" "Server: lighttpd"
+SMB (Samba) File Shares 🔎 →
+Produces ~500,000 results...narrow down by adding "Documents" or "Videos", etc.
+"Authentication: disabled" port:445
+Specifically domain controllers: 🔎 →
+"Authentication: disabled" NETLOGON SYSVOL -unix port:445
+Concerning default network shares of QuickBooks files: 🔎 →
+"Authentication: disabled" "Shared this folder to access QuickBooks files OverNetwork" -unix port:445
+"X-Plex-Protocol" "200 OK" port:32400
+"Serial Number:" "Built:" "Server: HP HTTP"
+"Server: AV_Receiver" "HTTP/1.1 406"
+Apple AirPlay Receivers 🔎 →
+Apple TVs, HomePods, etc.
+"\x08_airplay" port:5353
+Chromecasts / Smart TVs 🔎 →
+"Chromecast:" port:8008
+Crestron Smart Home Controllers 🔎 →
+"Model: PYNG-HUB"
+OctoPrint 3D Printer Controllers 🔎 →
+title:"OctoPrint" -title:"Login" http.favicon.hash:1307375944
+port:5901 authentication disabled  //This querie is so important, you can find vulnerable and misconf.
+                      
