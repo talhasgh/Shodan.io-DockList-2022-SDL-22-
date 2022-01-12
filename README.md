@@ -7,6 +7,8 @@ Here you can find variety of docks list to find usefull information about your t
 
 ![](DUMP/demo1.png)
 
-Will try to keep it updated with new gathered docks.
+Get full list of docks in dump folder
+
+Will try to keep it updated with new gathered docks
 
 Happy Hacking
